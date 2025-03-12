@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541125435227",
+    "project_id": "travel-app-axrxlo",
+    "storage_bucket": "travel-app-axrxlo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541125435227:android:4ef2505b35f417e875447e",
+        "android_client_info": {
+          "package_name": "com.mycompany.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ95i9rhxF6sOC2tBn9WXfQLXw55cB4t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541125435227:android:78fa097a65bf8b3775447e",
+        "android_client_info": {
+          "package_name": "com.mycompany.travelapp.healthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ95i9rhxF6sOC2tBn9WXfQLXw55cB4t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
